@@ -1,0 +1,47 @@
+.date{
+    font-size: 1em;
+    padding-top: 20px;
+}
+
+.heading1{
+    padding: 11px;
+    padding-bottom: 0px;
+    color: #f19911;
+}
+header  h5,header h3{
+	color: #f11411;
+}
+
+.smallPara{
+    padding: 10px;
+}
+
+.firstPara{
+    padding: 10px;
+    font-weight: 500;
+}
+
+.para{
+    font-weight: 600;
+}
+.contact .container{
+	padding-top: 10px;
+}
+
+.copyright{
+	background-color: black;
+}
+.copyright p{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: white;
+	
+}
+.copyright p a{
+	color: #00ff00;
+	font-weight: 700;
+	text-decoration: none;
+}
+#section1{
+	padding-top: 20px;
+}
