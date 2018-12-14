@@ -1,3 +1,6 @@
+body{
+overflow-x:none;
+}
 .date{
     font-size: 1em;
     padding-top: 20px;
